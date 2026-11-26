@@ -7,7 +7,9 @@ continuous integration, an honest comparison with the original results, and a Ze
 ### Tools
 
 <!-- TOOLS:START (updated automatically at each release) -->
-_The first tools are in progress._
+| Tool | What it does | Source paper | DOI |
+|---|---|---|---|
+| [selectperio](https://github.com/Decadentry/selectperio) | Selective (abstaining) severe vs no periodontitis labelling from self-reported questions; open re-implementation with an external check on NHANES 2009-2014 | Stamatelou et al., Sci Rep 2026 ([doi](https://doi.org/10.1038/s41598-026-43934-6)) | [10.5281/zenodo.24569301](https://doi.org/10.5281/zenodo.24569301) |
 <!-- TOOLS:END -->
 
 ### How we build
