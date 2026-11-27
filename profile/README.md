@@ -10,6 +10,7 @@ continuous integration, an honest comparison with the original results, and a Ze
 | Tool | What it does | Source paper | DOI |
 |---|---|---|---|
 | [selectperio](https://github.com/Decadentry/selectperio) | Selective (abstaining) severe vs no periodontitis labelling from self-reported questions; open re-implementation with an external check on NHANES 2009-2014 | Stamatelou et al., Sci Rep 2026 ([doi](https://doi.org/10.1038/s41598-026-43934-6)) | [10.5281/zenodo.24569301](https://doi.org/10.5281/zenodo.24569301) |
+| [dentagree](https://github.com/Decadentry/dentagree) | Observer-agreement analysis for dental imaging studies: kappa, Gwet AC1, Krippendorff alpha, ICC, cluster bootstrap, paired protocol comparison, design simulation, GRRAS reports | Rezai et al., Oral Surg Oral Med Oral Pathol Oral Radiol 2026 ([doi](https://doi.org/10.1016/j.oooo.2026.08.014)) | [10.5281/zenodo.24601789](https://doi.org/10.5281/zenodo.24601789) |
 <!-- TOOLS:END -->
 
 ### How we build
